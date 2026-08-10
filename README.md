@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=2E9EF7&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Danielhndzfor&color=2E9EF7&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Freelance-desde%202022-2E9EF7?style=flat" />
   <img src="https://img.shields.io/badge/Disponible-para%20proyectos-brightgreen?style=flat" />
 </p>
