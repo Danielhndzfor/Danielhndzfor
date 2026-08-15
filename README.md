@@ -89,12 +89,12 @@ Hoy  ──────── Full stack, combinando trabajo corporativo
 ### 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Danielhndzfor&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielhndzfor&theme=tokyonight&hide_border=true" alt="streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielhndzfor&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" width="60%" />
 </p>
 
 ---
@@ -102,16 +102,16 @@ Hoy  ──────── Full stack, combinando trabajo corporativo
 ### 📫 ¿Hablamos?
 
 <p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="https://linkedin.com/in/daniel-hernandez-for" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu@correo.com">
+  <a href="mailto:danielhernandezfor@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/52TUNUMERO" target="_blank">
+  <a href="https://wa.me/5213148728911" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://tuportafolio.com" target="_blank">
+  <a href="https://danielhndzfor.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
